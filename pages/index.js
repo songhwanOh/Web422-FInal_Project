@@ -9,7 +9,7 @@
 * 
 * Name: Song Hwan Oh Student ID: 116872227 Date: Apr 12, 2024
 *
-* Vercel App (Deployed) Link: a6-henna-sigma.vercel.app 
+* Vercel App (Deployed) Link: https://a6-9vrx.vercel.app
 * 
 ********************************************************************************/
 import { Image, Row, Col } from "react-bootstrap";
