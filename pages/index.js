@@ -1,13 +1,11 @@
 /********************************************************************************* 
 * 
-* WEB422 – Assignment 6
+* WEB422
 * 
 * I declare that this assignment is my own work in accordance with Seneca's
 * Academic Integrity Policy:
 *
 * https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html 
-* 
-* Name: Song Hwan Oh Student ID: 116872227 Date: Apr 12, 2024
 *
 * Vercel App (Deployed) Link: https://a6-9vrx.vercel.app
 * 
